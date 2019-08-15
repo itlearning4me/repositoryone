@@ -1,0 +1,2 @@
+This is practical test
+I need to create this file on git local directory, then push it to github at some point
