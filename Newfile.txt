@@ -10,3 +10,5 @@ Add new lines from local repository
 =======
 Adding some changes again
 >>>>>>> af84ff1cbf910baa81bf26828ee9aad03a0ae3eb
+
+Add some new lines and call it test 4
