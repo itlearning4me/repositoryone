@@ -4,5 +4,9 @@ I have added some other details on gitbub repo which is not here
 =======
 Increase the number of test
 >>>>>>> f0408a51b397bc897e8eccef6e906ba9304006f1
+<<<<<<< HEAD
 
 Add new lines from local repository
+=======
+Adding some changes again
+>>>>>>> af84ff1cbf910baa81bf26828ee9aad03a0ae3eb
