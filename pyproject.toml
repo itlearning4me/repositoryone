@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "projectone"
+version = "0.1.0"
+description = "Scientific-number calculator (CLI + web)"
+authors = [
+  {name = "Auto Generated", email = "dev@example.com"}
+]
+readme = "projectone/README_CALCULATOR.md"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://example.invalid/"
+
+[project.scripts]
+projectone-calc = "projectone.cli:main"
